@@ -1,0 +1,15 @@
+.odds {
+    background-color: #FFCCCB;
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+.special {
+    font-size: 24px;
+}
+#num2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+#num4 {
+    background-color: #90EE90;
+    font-weight: bold;
+}
